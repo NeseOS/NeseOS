@@ -8,4 +8,9 @@ You neer to check "releases" section.
 If you using VirtualBox, you need to install original Windows XP operating system before switch Windows XP to Nese XP or Windows os to NeseOS. 
 
 
+
+# LICENSED by: 
+LGPL-2.1
+
+
 Copyright ©2023 NeseOS. All rights reserved!

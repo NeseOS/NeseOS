@@ -5,7 +5,7 @@ The NeseOS Official Github repository. The NeseOS Computer Operating System like
 You need to check "release" section before install NeseOS's released computer operating systems. 
 
 # NOTE: 
-If you using VirtualBox, you need to install original Windows XP operating system before upgrade Windows XP to Nese XP or Windows os to NeseOS. 
+If you using VirtualBox, you need to install original Windows XP or Windows os operating system before upgrade Windows XP to Nese XP or Windows os to NeseOS. 
 
 
 

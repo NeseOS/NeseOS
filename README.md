@@ -2,7 +2,7 @@ The NeseOS Official Github repository. The NeseOS Computer Operating System like
 
 # How to download NeseOS's released computer operating systems/os updates? 
 
-You neer to check "releases" section. 
+You need to check "release" section before install NeseOS's released computer operating systems. 
 
 # NOTE: 
 If you using VirtualBox, you need to install original Windows XP operating system before switch Windows XP to Nese XP or Windows os to NeseOS. 

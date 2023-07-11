@@ -1,4 +1,7 @@
-The NeseOS Official Github repository. The NeseOS Computer Operating System like Nese XP. 
+The NeseOS Official Github repository. The NeseOS Computer Operating System like Nese XP.
+
+# Trailer: 
+https://youtu.be/v=NsNIdHqtJu0
 
 # How to download NeseOS's released computer operating systems/os updates? 
 

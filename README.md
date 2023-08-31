@@ -16,4 +16,4 @@ If you using VirtualBox or other virtual machine, you need to install original W
 LGPL-2.1
 
 
-Copyright ©2023 NeseOS. All rights reserved!
+Copyright ©2023 NeseOS Corporation. All rights reserved!

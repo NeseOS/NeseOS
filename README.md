@@ -7,6 +7,9 @@ https://youtu.be/NsNIdHqtJu0
 
 You need to check "release" section or go https://github.com/NeseOS/NeseOS/releases this link before install NeseOS's released computer operating systems. 
 
+# NeseOS is founded by Microsoft?
+Yes. NeseOS is founded by Microsoft Corporation.
+
 # NOTE: 
 If you using VirtualBox or other virtual machine, you need to install original Windows XP or Windows os operating system before upgrade Windows XP to Nese XP or Windows os to NeseOS. 
 
